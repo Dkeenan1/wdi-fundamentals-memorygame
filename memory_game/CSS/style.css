@@ -22,7 +22,7 @@ a {
 }
 
 a:hover {
-	border-color: white;
+	border-color: #F15B31;
 }
 
 
@@ -75,6 +75,12 @@ footer {
 	font-size: 14px;
 	letter-spacing: .08em;
 	font-weight: 500;
+}
+
+.insta {
+	text-decoration: underline #F15B31;
+	display: inline-block;
+	width: 10%;
 }
 
 .name {
