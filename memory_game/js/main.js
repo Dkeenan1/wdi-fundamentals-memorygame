@@ -40,7 +40,6 @@ var flipCard = function(cardId) {
 	cardsInPlay.push(cards[cardId].rank);
 	if (cardsInPlay.length === 2) {
 		checkForMatch();
-
 	}
 	
 };
